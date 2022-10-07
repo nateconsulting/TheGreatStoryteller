@@ -1,0 +1,9 @@
+{
+    "happy": ["the sun was out","a butterfly just landed nearby","the library was still open"],
+    "sad": ["it was a little chilly","it looked like rain","no one else was there"],
+    "mad": ["there is only so much daylight",", well, unclear","the beatles show was cancelled"],
+    "glad": ["there was plenty of time","the soup was just the right warm","yesterday was so nice"],
+    "loving life": ["it is very hard not to","every day","to the fullest"],
+    "ready to live the day": ["in an excited way","in every way","until tomorrow"],
+    "grateful": ["the weather had been so nice","there is no reason not to be","for the sunshine"]
+}

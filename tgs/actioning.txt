@@ -1,0 +1,7 @@
+walking
+running
+jumping
+hopping
+skipping
+laughing
+whistling
